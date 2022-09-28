@@ -29,8 +29,8 @@ In short,domain and conversions forms a unique function.
 1. continuous
 2. infinite series
 
-# differentional equation
+# Differentional equation
 
-# infinite series
+# Infinite series
 
 

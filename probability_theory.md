@@ -1,1 +1,3 @@
-1. traditional probability
+# traditional probability
+
+## 1.1 smple spaces
