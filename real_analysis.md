@@ -1,4 +1,4 @@
-# Function and Limitation
+# Chapter1 Function and Limitation
 ## function
  a function from a set X to a set Y assigns to each element of X exactly one element of Y.The set X is called the domain of the function and the set Y is called the codomain of the function.
 
@@ -30,7 +30,9 @@ In short,domain and conversions forms a unique function.
 2. infinite series
 
 # Differentional equation
+## 1. linear differentional equation
 
 # Infinite series
+1. series of positive terms
 
-
+# Chapter9 Multiple Integrals
