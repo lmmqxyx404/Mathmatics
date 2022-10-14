@@ -35,4 +35,8 @@ In short,domain and conversions forms a unique function.
 # Infinite series
 1. series of positive terms
 
+# Chapter2 Derivatives
+## 1. How to get the derivative of the inverse function
+## 2. Common trigonometric functions for derivatives
+
 # Chapter9 Multiple Integrals
