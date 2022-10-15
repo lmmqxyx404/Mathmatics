@@ -32,6 +32,8 @@ In short,domain and conversions forms a unique function.
 # Differentional equation
 ## 1. linear differentional equation
 
+## 2. Chi-square linear differential equations
+
 # Infinite series
 1. series of positive terms
 
