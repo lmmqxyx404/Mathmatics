@@ -21,15 +21,15 @@ In short,domain and conversions forms a unique function.
 ## functional limitation
 
 ### definition
-1. 
+
 
 ### features
-- 1. 
+- 
 
 1. continuous
 2. infinite series
 
-# Differentional equation
+#  Chapter4 Differentional equation
 ## 1. linear differentional equation
 
 ## 2. Chi-square linear differential equations
