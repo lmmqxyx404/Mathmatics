@@ -22,13 +22,18 @@ In short,domain and conversions forms a unique function.
 
 ### definition
 
-
 ### features
-- 
-
 1. continuous
 2. infinite series
 
+
+# Chapter2 Two critical limits and Limit Existence Criteria
+## Limit Existence Criteria
+Monotone bounded series must converge.
+
+# Chapter3 Derivatives
+## 1. How to get the derivative of the inverse function
+## 2. Common trigonometric functions for derivatives
 #  Chapter4 Differentional equation
 ## 1. linear differentional equation
 
@@ -37,8 +42,5 @@ In short,domain and conversions forms a unique function.
 # Infinite series
 1. series of positive terms
 
-# Chapter2 Derivatives
-## 1. How to get the derivative of the inverse function
-## 2. Common trigonometric functions for derivatives
 
 # Chapter9 Multiple Integrals
