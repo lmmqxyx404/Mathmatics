@@ -8,3 +8,9 @@
 ## matrix
 ### difference
 pay attention to a*A and a*|A|.
+
+## notions
+Symmetric matrix
+Antisymmetric Matrix
+Accompanying Matrix
+Inverse matrix
