@@ -9,8 +9,12 @@
 ### difference
 pay attention to a*A and a*|A|.
 
-## notions
+### notions
 Symmetric matrix
 Antisymmetric Matrix
 Accompanying Matrix
 Inverse matrix
+
+### operations
+- multiply
+f(A)=(A+E)(A-E);
