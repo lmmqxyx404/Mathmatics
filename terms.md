@@ -1364,7 +1364,7 @@ characteristic equation 特征方程
 
 characteristic polynomial 特征多项式
 
-coffcient matrix 系数矩阵
+coefficient matrix 系数矩阵
 
 cofactor 代数余子式
 
