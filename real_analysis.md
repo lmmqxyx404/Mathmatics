@@ -44,3 +44,9 @@ Monotone bounded series must converge.
 
 
 # Chapter9 Multiple Integrals
+## calculate more than 2 integrals
+### first 1 then 2
+common ways.
+
+### first 2 then 1
+like calculate a sphere.
