@@ -41,7 +41,7 @@ Monotone bounded series must converge.
 
 # Infinite series
 1. series of positive terms
-
+## functional series
 
 # Chapter9 Multiple Integrals
 ## calculate more than 2 integrals
