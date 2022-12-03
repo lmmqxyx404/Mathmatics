@@ -34,12 +34,15 @@ Monotone bounded series must converge.
 # Chapter3 Derivatives
 ## 1. How to get the derivative of the inverse function
 ## 2. Common trigonometric functions for derivatives
+
 #  Chapter4 Differentional equation
 ## 1. linear differentional equation
 
 ## 2. Chi-square linear differential equations
 
-# Infinite series
+# Chapter5 infinite integrals
+
+# Chapter8 Infinite series
 1. series of positive terms
 ## functional series
 
