@@ -41,11 +41,14 @@ Monotone bounded series must converge.
 ## 2. Chi-square linear differential equations
 
 # Chapter5 infinite integrals
+## integral methods
+
 
 # Chapter8 Infinite series
 1. series of positive terms
 ## functional series
 
+2. absolute convergency
 # Chapter9 Multiple Integrals
 ## calculate more than 2 integrals
 ### first 1 then 2
