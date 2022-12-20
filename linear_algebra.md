@@ -18,3 +18,5 @@ Inverse matrix
 ### operations
 - multiply
 f(A)=(A+E)(A-E);
+
+## Contracts and Similarities
