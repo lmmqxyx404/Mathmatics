@@ -60,7 +60,7 @@ like calculate a sphere.
 ## curve integration
 In mathematics, a line integral is an integral where the function to be integrated is evaluated along a curve.[1] The terms path integral, curve integral, and curvilinear integral are also used; contour integral is used as well, although that is typically reserved for line integrals in the complex plane.
 ### Green formula
-
+transform dx dy to ds
 
 ## surface integral
 In mathematics, particularly multivariable calculus, a surface integral is a generalization of multiple integrals to integration over surfaces. It can be thought of as the double integral analogue of the line integral. Given a surface, one may integrate a scalar field (that is, a function of position which returns a scalar as a value) over the surface, or a vector field (that is, a function which returns a vector as value). If a region R is not flat, then it is called a surface as shown in the illustration.
@@ -68,3 +68,4 @@ In mathematics, particularly multivariable calculus, a surface integral is a gen
 Surface integrals have applications in physics, particularly with the theories of classical electromagnetism.
 
 ### Gauss's law
+
