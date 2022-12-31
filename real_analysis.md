@@ -45,8 +45,14 @@ Monotone bounded series must converge.
 
 
 # Chapter8 Infinite series
-1. series of positive terms
-## functional series
+## 1. Number of constant term series
+The sum of n terms convergents. The series convergent.
+### series of positive terms
+### alternative series
+
+## 2. functional series
+
+## 3. power series
 
 2. absolute convergency
 # Chapter9 Multiple Integrals
