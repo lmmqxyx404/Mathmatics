@@ -49,12 +49,11 @@ Monotone bounded series must converge.
 The sum of n terms convergents. The series convergent.
 ### series of positive terms
 ### alternative series
-
+### absolute convergency
 ## 2. functional series
 
 ## 3. power series
 
-2. absolute convergency
 # Chapter9 Multiple Integrals
 ## calculate more than 2 integrals
 ### first 1 then 2
