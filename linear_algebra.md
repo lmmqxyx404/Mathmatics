@@ -20,3 +20,6 @@ Inverse matrix
 f(A)=(A+E)(A-E);
 
 ## Contracts and Similarities
+
+## quadratic form
+### normal form
