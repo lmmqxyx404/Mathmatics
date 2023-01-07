@@ -52,6 +52,9 @@ The sum of n terms convergents. The series convergent.
 ### absolute convergency
 ## 2. functional series
 
+
+
+
 ## 3. power series
 
 # Chapter9 Multiple Integrals
