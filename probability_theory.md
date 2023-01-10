@@ -6,3 +6,5 @@
  - 1. Binomial distribution 
  - 2. Bernoulli distribution
  - 3. 
+
+# Probability density function
