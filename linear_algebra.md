@@ -8,7 +8,7 @@
 ## matrix
 ### difference
 pay attention to a*A and a*|A|.
-
+ab=a b
 ### notions
 Symmetric matrix
 Antisymmetric Matrix
