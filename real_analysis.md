@@ -60,7 +60,7 @@ The sum of n terms convergents. The series convergent.
 # Chapter9 Multiple Integrals
 ## calculate more than 2 integrals
 ### first 1 then 2
-common ways.
+common ways. Priority of z.
 
 ### first 2 then 1
 like calculate a sphere.
