@@ -62,6 +62,9 @@ The sum of n terms convergents. The series convergent.
 ### first 1 then 2
 common ways. Priority of z.
 
+### formula
+dv=ρdρdΘ
+
 ### first 2 then 1
 like calculate a sphere.
 
