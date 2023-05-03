@@ -64,7 +64,7 @@ common ways. Priority of z.
 
 ### formula
 dv=ρdρdΘ
-
+dv=pin
 ### first 2 then 1
 like calculate a sphere.
 
