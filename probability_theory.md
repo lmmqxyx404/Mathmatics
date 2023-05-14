@@ -5,8 +5,12 @@
 ## Probability distribution
  - 1. Binomial distribution 
  - 2. Bernoulli distribution
- - 3. 
+ - 3. Unify
+ - 4. Exponential
 
 # Probability density function
 
-# 概率分布函数
+# 
+
+# Expectation
+
