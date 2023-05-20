@@ -60,13 +60,13 @@ The sum of n terms convergents. The series convergent.
 # Chapter9 Multiple Integrals
 ## calculate more than 2 integrals
 ### first 1 then 2
-common ways. Priority of z.
+common ways. Priority of z. ∫， lower bound and upper bound could be f(x,y)
 
 ### formula
 dv=ρdρdΘ
 dv=pin
 ### first 2 then 1
-like calculate a sphere.
+like calculate a sphere. 
 
 ## curve integration
 In mathematics, a line integral is an integral where the function to be integrated is evaluated along a curve.[1] The terms path integral, curve integral, and curvilinear integral are also used; contour integral is used as well, although that is typically reserved for line integrals in the complex plane.
