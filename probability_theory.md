@@ -18,3 +18,6 @@ Ram
 Rsm
 
 # point estimate method
+
+# 懒人定理
+适用于计算 期望值
