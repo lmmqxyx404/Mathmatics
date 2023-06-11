@@ -29,3 +29,7 @@ Quadratic forms occupy a central place in various branches of mathematics, inclu
 
 Quadratic forms are not to be confused with a quadratic equation, which has only one variable and includes terms of degree two or less. A quadratic form is one case of the more general concept of homogeneous polynomials.
 ### normal form
+
+# 分块 matrix
+
+# 逆矩阵伴随矩阵的联系
