@@ -33,3 +33,10 @@ Quadratic forms are not to be confused with a quadratic equation, which has only
 # 分块 matrix
 
 # 逆矩阵伴随矩阵的联系
+
+
+# 初等变换
+有三种
+1. 交换行
+2. 乘以某一行
+3. 1与2的结合
