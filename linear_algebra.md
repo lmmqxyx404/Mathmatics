@@ -40,3 +40,5 @@ Quadratic forms are not to be confused with a quadratic equation, which has only
 1. 交换行
 2. 乘以某一行
 3. 1与2的结合
+
+初等矩阵P在左边，乘以已知矩阵，相当于做行变换。在右边，则是做列变换
