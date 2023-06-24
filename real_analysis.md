@@ -57,6 +57,12 @@ The sum of n terms convergents. The series convergent.
 
 ## 3. power series
 
+# Chapter8 Multiple Derivals
+## calculate more than 2 variables
+
+## Lagrange multiplier
+In mathematical optimization, the method of Lagrange multipliers is a strategy for finding the local maxima and minima of a function subject to equation constraints
+
 # Chapter9 Multiple Integrals
 ## calculate more than 2 integrals
 ### first 1 then 2
