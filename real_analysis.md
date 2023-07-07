@@ -42,6 +42,7 @@ get the ${\infty}$ factor and pay attention to the $+$ $-$ symbol.
 ### have to consider the left limit and right limit
  - piecewise function
  - $\mathrm{e}^{\infty}$ because the symbol of ${\infty}$ could be + and -
+ - $\arctan{x}$ and $x={\infty}$
 
 
 # Chapter3 Derivatives
