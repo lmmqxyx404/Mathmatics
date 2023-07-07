@@ -35,7 +35,9 @@ Monotone bounded series must converge.
 ### $a-b$ $(0-0)$
 In mathematics, rationalizing is the process of converting a fraction expression into an equivalent expression in which the denominator does not contain irrational or other undesirable terms.
 try to rationalizing the relative a-b. For example, you can multiply a+b.
-### $\frac{\infty}{\infty} $
+### $\frac{\infty}{\infty}$
+get the $\{infty}$ factor and pay attention to the $+$ $-$ symbol.
+
 
 # Chapter3 Derivatives
 ## 1. How to get the derivative of the inverse function
