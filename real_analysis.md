@@ -104,4 +104,6 @@ In mathematics, particularly multivariable calculus, a surface integral is a gen
 Surface integrals have applications in physics, particularly with the theories of classical electromagnetism.
 
 ### Gauss's law
-transfer dxdy to dv
+transfer $\mathrm{d}x\mathrm{d}y$ to $\mathrm{d}s$
+
+# The association between Green's Law and Stoke‘s Formula
