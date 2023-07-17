@@ -9,6 +9,11 @@
 ### difference
 pay attention to a*A and a*|A|.
 ab=a b
+
+$$ \begin{vmatrix} \begin{pmatrix}A\end{pmatrix} * \begin{pmatrix}B \end{pmatrix} \end{vmatrix} = \begin{vmatrix} \begin{pmatrix} A \end{pmatrix} \end{vmatrix} * \begin{vmatrix} \begin{pmatrix}B \end{pmatrix} \end{vmatrix} $$ 
+
+
+
 ### notions
 Symmetric matrix
 Antisymmetric Matrix
@@ -28,6 +33,7 @@ is a quadratic form in the variables x and y. The coefficients usually belong to
 Quadratic forms occupy a central place in various branches of mathematics, including number theory, linear algebra, group theory (orthogonal group), differential geometry (Riemannian metric, second fundamental form), differential topology (intersection forms of four-manifolds), and Lie theory (the Killing form).
 
 Quadratic forms are not to be confused with a quadratic equation, which has only one variable and includes terms of degree two or less. A quadratic form is one case of the more general concept of homogeneous polynomials.
+
 ### normal form
 
 # 分块 matrix
