@@ -36,9 +36,9 @@ Quadratic forms are not to be confused with a quadratic equation, which has only
 
 ### normal form
 
-# 分块 matrix
+# block matrix
 
-# 逆矩阵伴随矩阵的联系
+# relation of inverse matrix and adjugate matrix
 
 
 # 初等变换
