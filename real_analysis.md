@@ -90,9 +90,14 @@ common ways. Priority of z. ∫， lower bound and upper bound could be f(x,y)
 
 ### formula
 $\mathrm{d}v=ρ\mathrm{d}ρ\mathrm{d}Θ$
+
 dv=pin
+
 ### first 2 then 1
 like calculate a sphere. 
+$\mathrm{d}v=\mathrm{d}s\mathrm{d}z$
+
+$$\iiint\limits_{V} f(x, y, z) dV = \int_{z_1}^{z_2} f(z)dz\iint\limits_{D_z} ds$$
 
 ## curve integration
 In mathematics, a line integral is an integral where the function to be integrated is evaluated along a curve.[1] The terms path integral, curve integral, and curvilinear integral are also used; contour integral is used as well, although that is typically reserved for line integrals in the complex plane.
