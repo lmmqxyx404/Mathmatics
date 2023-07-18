@@ -39,12 +39,13 @@ try to rationalizing the relative a-b. For example, you can multiply a+b.
 ### $\frac{\infty}{\infty}$
 get the ${\infty}$ factor and pay attention to the $+$ $-$ symbol.
 
-### have to consider the left limit and right limit
+### the case that have to consider the left limit and right limit
  - piecewise function
  - $\mathrm{e}^{\infty}$ because the symbol of ${\infty}$ could be + and -
  - $\arctan{x}$ and $x={\infty}$
 
-
+### low-order infinitesimal plus a high-order infinitesimal
+The result is a low-order infinitesimal
 # Chapter3 Derivatives
 ## 1. How to get the derivative of the inverse function
 ## 2. Common trigonometric functions for derivatives
