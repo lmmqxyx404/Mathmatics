@@ -47,5 +47,6 @@ The basic properties of a linear transformation T: V → W are as follows:
 1. Additivity: T(u + v) = T(u) + T(v) for any vectors u, v in V.
 2. Homogeneity: T(ku) = kT(u) for any scalar k and vector u in V.
 3. The combination of 1 and 2.
-
-初等矩阵P在左边，乘以已知矩阵，相当于做行变换。在右边，则是做列变换
+## elementary matrix 
+$$A = {P_1} E {P_2}$$
+${P_1}$ is in left, equals elementary row operations. ${P_2}$ is in right, equals elementary column operations.
