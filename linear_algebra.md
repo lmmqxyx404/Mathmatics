@@ -41,10 +41,11 @@ Quadratic forms are not to be confused with a quadratic equation, which has only
 # relation of inverse matrix and adjugate matrix
 
 
-# 初等变换
-有三种
-1. 交换行
-2. 乘以某一行
-3. 1与2的结合
+# Linear transformations
+The basic properties of a linear transformation T: V → W are as follows:
+
+1. Additivity: T(u + v) = T(u) + T(v) for any vectors u, v in V.
+2. Homogeneity: T(ku) = kT(u) for any scalar k and vector u in V.
+3. The combination of 1 and 2.
 
 初等矩阵P在左边，乘以已知矩阵，相当于做行变换。在右边，则是做列变换
