@@ -10,10 +10,16 @@
  - 5. Normal distribution
 
 # Probability density function
-
-# 
+The relation of variable and probability density function
+in general,
+  $$F(x) = \int_{-{\infty}}^{x}f(x){\mathrm{d}x} $$
 
 # Expectation
+## Random variables with finitely many outcomes
+
+
+## Random variables with density
+  $$E[X] = \int_{-{\infty}}^{+{\infty}}x*f(x){\mathrm{d}x} $$
 
 Ram
 Rsm
