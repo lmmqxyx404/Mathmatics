@@ -71,8 +71,7 @@ The sum of n terms convergents. The series convergent.
 
 
 ## 2. functional series
-
-
+### convergence and divergence
 
 
 ## 3. power series
