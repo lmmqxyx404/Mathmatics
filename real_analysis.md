@@ -112,6 +112,13 @@ Surface integrals have applications in physics, particularly with the theories o
 #### condition
 where the integral is taken over a closed surface S enclosing a volume V that contains a charge Q. This equation relates the electric field E at every point on the surface S to the charge Q enclosed within the surface.
 
+
+
+
+
+
+
+
 Transfer $\mathrm{d}x\mathrm{d}y\mathrm{d}z$ to $\mathrm{d}v$
 
 ### Stoke‘s Formula
@@ -120,3 +127,7 @@ In the application of Stokes' theorem, the direction of the surface should follo
 There is a closing relation to Green's theorm
 
 # The association between Green's Law and Stoke‘s Formula
+
+
+连续函数的可导性
+F(x) ≠0且连续，则 |f(x)| 必定可导
