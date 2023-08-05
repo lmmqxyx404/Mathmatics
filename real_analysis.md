@@ -115,10 +115,6 @@ where the integral is taken over a closed surface S enclosing a volume V that co
 
 
 
-
-
-
-
 Transfer $\mathrm{d}x\mathrm{d}y\mathrm{d}z$ to $\mathrm{d}v$
 
 ### Stoke‘s Formula
@@ -131,3 +127,5 @@ There is a closing relation to Green's theorm
 
 连续函数的可导性
 F(x) ≠0且连续，则 |f(x)| 必定可导
+
+函数奇偶性会影响到0点判定，进而可导性质也会受到影响
