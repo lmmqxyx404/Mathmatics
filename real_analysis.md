@@ -129,3 +129,5 @@ There is a closing relation to Green's theorm
 F(x) ≠0且连续，则 |f(x)| 必定可导
 
 函数奇偶性会影响到0点判定，进而可导性质也会受到影响
+
+收敛半径，收敛域
