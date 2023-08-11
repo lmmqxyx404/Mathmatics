@@ -112,9 +112,6 @@ Surface integrals have applications in physics, particularly with the theories o
 #### condition
 where the integral is taken over a closed surface S enclosing a volume V that contains a charge Q. This equation relates the electric field E at every point on the surface S to the charge Q enclosed within the surface.
 
-
-
-
 Transfer $\mathrm{d}x\mathrm{d}y\mathrm{d}z$ to $\mathrm{d}v$
 
 ### Stoke‘s Formula
@@ -134,3 +131,4 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 
 幂级数
 
+傅里叶级数
