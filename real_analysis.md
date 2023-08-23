@@ -28,10 +28,12 @@ In short,domain and conversions forms a unique function.
 
 
 # Chapter2 Two critical limits and Limit Existence Criteria
+
 ## Limit Existence Criteria
 Monotone bounded series must converge.
 
 ## calculate the limit
+
 ### $a-b$ $(0-0)$
 In mathematics, rationalizing is the process of converting a fraction expression into an equivalent expression in which the denominator does not contain irrational or other undesirable terms.
 try to rationalizing the relative a-b. For example, you can multiply a+b.
@@ -60,8 +62,14 @@ The result is a low-order infinitesimal
 
 
 # Chapter8 Infinite series
-## 1. Number of constant term series
+
+## 1.Number of constant term series
 The sum of n terms convergents. The series convergent.
+$$ S=a_1+a_2+...+a_n+... $$
+$$ S_n=a_1+a_2+...+a_n$$
+
+$$ if \lim_{n \to \infty}=A , \ Then\ S_n\ convergent $$
+
 ### series of positive terms
 
 
@@ -70,11 +78,17 @@ The sum of n terms convergents. The series convergent.
 ### absolute convergency
 
 
-## 2. functional series
-### convergence and divergence
+## 2.functional series
+$$f(x)=a_1(x)+a_2(x)+a_3(x)+...+a_n(x)+... $$
 
 
-## 3. power series
+
+### 2.1 convergence and divergence
+
+
+## 3.power series
+$$ In\ general, a_n(x)=a_n*(x-x_0)^n $$
+
 
 # Chapter8 Multiple Derivals
 ## calculate more than 2 variables
