@@ -143,6 +143,7 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 
 # 收敛半径，收敛域
 
-幂级数
+# power series
+ A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
 
 傅里叶级数
