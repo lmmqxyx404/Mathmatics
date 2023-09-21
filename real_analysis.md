@@ -139,10 +139,11 @@ There is a closing relation to Green's theorm
 连续函数的可导性
 F(x) ≠0且连续，则 |f(x)| 必定可导
 
-函数奇偶性会影响到0点判定，进而可导性质也会受到影响
+# 函数奇偶性会影响到0点判定，进而可导性质也会受到影响
 
-收敛半径，收敛域
+# convergence radius. Convergence domain
 
-幂级数
+# power series
+ A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
 
-傅里叶级数
+Fourin series
