@@ -135,7 +135,8 @@ There is a closing relation to Green's theorm
 
 # The association between Green's Law and Stoke‘s Formula
 
-
+微分方程的种类
+齐次性
 连续函数的可导性
 
 可导必定连续  连续未必可导
