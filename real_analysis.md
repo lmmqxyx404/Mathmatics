@@ -139,6 +139,8 @@ There is a closing relation to Green's theorm
 齐次性
 连续函数的可导性
 
+空间直线方程
+空间平面方程
 可导必定连续  连续未必可导
 
 F(x) ≠0且连续，则 |f(x)| 必定可导
