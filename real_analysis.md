@@ -148,6 +148,10 @@ There is a closing relation to Green's theorm
 旋转体体积计算
 F(x) ≠0且连续，则 |f(x)| 必定可导
 变上限积分函数
+一般都是和导数以及积分一起出
+
+周期函数的积分
+
 # 函数奇偶性会影响到0点判定，进而可导性质也会受到影响
 
 # convergence radius. Convergence domain
