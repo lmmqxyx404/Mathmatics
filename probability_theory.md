@@ -1,7 +1,20 @@
 # traditional probability
 
-## 1.1 sample spaces
-## basic point
+# probability and statistics
+
+# random test
+1. before the test, we can predict all possible results.
+2. before the test, we can not know the precise result.
+3. The test could be repeated in the same condition.
+
+## 1.1 sample spaces(always noted as S)
+###  random event.
+basic event
+certain event
+impossible event
+The subset(not the element in S) of S is A.
+
+### basic point
 ## Probability distribution
  - 1. Binomial distribution 
  - 2. Bernoulli distribution
