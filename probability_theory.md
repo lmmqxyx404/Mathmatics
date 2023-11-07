@@ -1,5 +1,3 @@
-# traditional probability
-
 # probability and statistics
 
 # random test
@@ -38,6 +36,18 @@ It's worth noting that these axioms are just one way to define probability, and 
 $$
 P( \bigcup_{\text{i=1}}^{n} A_i)=\sum_{i=1}^{n}P(A_i)+...
 $$
+
+## traditional probability
+1. the number of S is limited.
+2. each probability of the basic point is equal.
+
+### classical problem
+pay attention to the sample space.
+
+### conditional probability
+
+### the law of total probability
+the keyword is partition.
 
 ### basic point
 ## Probability distribution
