@@ -135,6 +135,16 @@ There is a closing relation to Green's theorm
 
 # The association between Green's Law and Stoke‘s Formula
 
+
+# 函数奇偶性会影响到0点判定，进而可导性质也会受到影响
+
+# convergence radius. Convergence domain
+
+# power series
+ A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
+
+Fourin series
+
 微分方程的种类
 齐次性
 连续函数的可导性
@@ -152,11 +162,5 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 
 周期函数的积分
 
-# 函数奇偶性会影响到0点判定，进而可导性质也会受到影响
-
-# convergence radius. Convergence domain
-
-# power series
- A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
-
-Fourin series
+三角函数求原函数
+变上限函数求积分
