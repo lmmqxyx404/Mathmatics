@@ -149,6 +149,15 @@ Fourin series
 齐次性
 连续函数的可导性
 
+# space line equation
+## Normal form
+$$
+A(x-x_0)+B(y-y_0)+C(z-z_0)=0
+$$
+
+## general form
+$$Ax + By + Cz + D = 0$$
+
 空间直线方程
 空间平面方程
 点法式方程
