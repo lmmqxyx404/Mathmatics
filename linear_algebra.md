@@ -85,3 +85,8 @@ The basic properties of a linear transformation T: V → W are as follows:
 ## elementary matrix 
 $$A = {P_1} E {P_2}$$
 ${P_1}$ is in left, equals elementary row operations. ${P_2}$ is in right, equals elementary column operations.
+
+# TODO
+## 余子式与代数余子式的区别
+
+## 行列式计算 每天都要做

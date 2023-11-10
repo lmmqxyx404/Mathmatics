@@ -50,6 +50,18 @@ pay attention to the sample space.
 the keyword is partition.
 
 ### basic point
+
+# random variable.
+$$ X(e):S \rightarrow  R $$
+pay attention that multiple basic point could be same value.
+多个样本点可能对应同一个随机变量。（一般是让每一个样本点对应唯一一个随机变量）
+
+## ideas
+1. 划分样本空间为基础的样本点。
+2. 定义随机变量(定义完后，有时候可以确定取值范围。即值域)
+3. 则随机事件的取值可以确定
+
+
 ## Probability distribution
  - 1. Binomial distribution 
  - 2. Bernoulli distribution
@@ -78,3 +90,9 @@ Rsm
 In probability theory and statistics, the law of the unconscious statistician, or LOTUS, is a theorem which expresses the expected value of a function g(X) of a random variable X in terms of g and the probability distribution of X.
 
 # d
+
+# TODO
+## 独立与相容的概念对比（venn graph）
+犯过错误
+不要以为独立，交集就是空集。
+
