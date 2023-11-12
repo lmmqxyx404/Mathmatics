@@ -49,8 +49,36 @@ get the ${\infty}$ factor and pay attention to the $+$ $-$ symbol.
 ### low-order infinitesimal plus a high-order infinitesimal
 The result is a low-order infinitesimal
 # Chapter3 Derivatives
+## 0. origin
+研究加速度与瞬时速度问题。必须求一个极限值，这个极限值表示的含义就是瞬时速度
+
 ## 1. How to get the derivative of the inverse function
 ## 2. Common trigonometric functions for derivatives
+
+## 3.tangent line and normal line.
+Tangent Line (切线):
+The tangent line to a curve at a specific point is a straight line that touches the curve at that point, sharing the same slope as the curve at that point. The tangent line represents the instantaneous rate of change or the direction of the curve at that particular point. It provides a linear approximation to the curve near the point of tangency.
+
+Normal Line (法线):
+The normal line to a curve at a specific point is a straight line that is perpendicular (at a right angle) to the tangent line at that point. The normal line represents the direction that is orthogonal to the tangent line and is pointing away from the curve. It provides a reference line for measuring angles and is often used in various mathematical applications.
+
+Both the tangent line and the normal line play important roles in calculus and differential geometry. They help in analyzing the behavior of curves, determining critical points, finding derivative values, and understanding the geometric properties of curves at specific points.
+### pay attention that the derivative limit value of some point is infinite.
+the relative normal line could be the $y_0$
+
+## 4.导数之间的运算法则
+
+## 5.高阶导数
+### 计算方法
+1. 直接法
+2. 间接法
+3. 公式法（Leibniz）
+$$[f(x)*g(x)]^{(n)}=f^{(n)}g+C_n^1f^{(n-1)}g'+\cdots+ g^{(n)}f $$
+
+## 6.隐函数和参数方程求导
+$$F(x,y)=0,且x确定，y就可以确定。那么就称F(x,y)确定了一个隐函数 $$
+### 1. 主要是对数求导法
+### 2.参数方程确定的函数求高阶导数。要冷静分析
 
 #  Chapter4 Differentional equation
 ## 1. linear differentional equation
@@ -177,3 +205,8 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 # TODO
 ## 间断点分类区别
 
+## 导数
+1. 函数求导的四则运算法则
+2. 注意与复合函数求导区分开来（复合时，尽量让每一个中间函数是初等函数）
+3. 反函数求导
+4. 高阶导数的计算
