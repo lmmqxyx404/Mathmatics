@@ -80,7 +80,19 @@ $$F(x,y)=0,且x确定，y就可以确定。那么就称F(x,y)确定了一个隐�
 ### 1. 主要是对数求导法
 ### 2.参数方程确定的函数求高阶导数。要冷静分析
 
-#  Chapter4 Differentional equation
+# Chapter4 differential
+## concept
+$$ calculate the \Delnmmm   ta{y}  $$
+
+## 曲率
+## 曲率半径
+
+
+#  Chapter5 Differentional equation
+## 1. linear differentional equation
+#  Chapter5 Differentional equation
+## 1. linear differentional equation
+#  Chapter5 Differentional equation
 ## 1. linear differentional equation
 
 ## 2. Chi-square linear differential equations
