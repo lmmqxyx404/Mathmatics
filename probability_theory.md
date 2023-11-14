@@ -46,7 +46,7 @@ pay attention to the sample space.
 
 ### conditional probability
 
-### the law of total probability
+### the law of total probability(Bayes)
 the keyword is partition.
 
 ### basic point
@@ -89,10 +89,10 @@ Rsm
 # Law of the unconscious statistician
 In probability theory and statistics, the law of the unconscious statistician, or LOTUS, is a theorem which expresses the expected value of a function g(X) of a random variable X in terms of g and the probability distribution of X.
 
-# d
-
 # TODO
 ## 独立与相容的概念对比（venn graph）
 犯过错误
 不要以为独立，交集就是空集。
 
+## basic point relations
+不同样本点的概率不一定是相同的，可以不同，相同就认为是均匀分布
