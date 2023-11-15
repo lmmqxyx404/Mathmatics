@@ -82,7 +82,7 @@ $$F(x,y)=0,且x确定，y就可以确定。那么就称F(x,y)确定了一个隐�
 
 # Chapter4 differential
 ## concept
-$$ calculate the \Delnmmm   ta{y}  $$
+$$ calculate the \Delta{y}  $$
 
 # Chapter5 常见的微分中值定理 
 ## 费马引理
@@ -99,13 +99,22 @@ $$ calculate the \Delnmmm   ta{y}  $$
 
 
 #  Chapter5 Differentional equation
-## 1. linear differentional equation
-#  Chapter5 Differentional equation
-## 1. linear differentional equation
-#  Chapter5 Differentional equation
-## 1. linear differentional equation
+## definition
+$$
+F(x,y,y',y^{(2)},y^{(3)},\cdots,y^{(n)})=0 \\
+y^{(n)} 中n为微分方程的阶
+$$
 
-## 2. Chi-square linear differential equations
+## linear differentional equation
+1. 可分离变量的一阶微分方程
+2. 一阶齐次微分方程
+3. 一阶线性微分方程
+$$dy/dx+P(x)y=Q(x) $$
+4. 伯努利方程
+$$dy/dx+P(x)y=Q(x)y^n $$
+
+
+## Chi-square linear differential equations
 
 # Chapter5 infinite integrals
 ## integral methods
@@ -188,12 +197,14 @@ There is a closing relation to Green's theorm
 
 # 函数奇偶性会影响到0点判定，进而可导性质也会受到影响
 
-# convergence radius. Convergence domain
+## convergence radius. Convergence domain
 
-# power series
+## power series
  A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
+### 函数级数 
+函数级数的特例是幂级数
 
-Fourin series
+## Fourin series
 
 微分方程的种类
 齐次性
