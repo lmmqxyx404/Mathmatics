@@ -106,11 +106,11 @@ y^{(n)} 中n为微分方程的阶
 $$
 
 ## linear differentional equation
-1. 可分离变量的一阶微分方程
-2. 一阶齐次微分方程
-3. 一阶线性微分方程
+1. Seperation of variables method
+2. Homogeneous differential equation method
+3. Integrating factor method
 $$dy/dx+P(x)y=Q(x) $$
-4. 伯努利方程
+4. Bernoulli differential equation method
 $$dy/dx+P(x)y=Q(x)y^n $$
 
 
@@ -130,7 +130,10 @@ $$ S_n=a_1+a_2+...+a_n$$
 $$ if \lim_{n \to \infty}=A , \ Then\ S_n\ convergent $$
 
 ### series of positive terms
-
+1. Conmparision test
+2. Limit comparison test
+3. Ratio test
+4. Root test
 
 ### alternative series
 
@@ -139,14 +142,17 @@ $$ if \lim_{n \to \infty}=A , \ Then\ S_n\ convergent $$
 
 ## 2.functional series
 $$f(x)=a_1(x)+a_2(x)+a_3(x)+...+a_n(x)+... $$
-
-
-
 ### 2.1 convergence and divergence
-
+函数项级数的特例是幂级数
+### convergence radius. Convergence domain
 
 ## 3.power series
 $$ In\ general, a_n(x)=a_n*(x-x_0)^n $$
+ A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
+### 函数项级数 
+
+
+## 4.Fourin series
 
 
 # Chapter8 Multiple Derivals
@@ -197,14 +203,6 @@ There is a closing relation to Green's theorm
 
 # 函数奇偶性会影响到0点判定，进而可导性质也会受到影响
 
-## convergence radius. Convergence domain
-
-## power series
- A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
-### 函数级数 
-函数级数的特例是幂级数
-
-## Fourin series
 
 微分方程的种类
 齐次性
@@ -236,6 +234,11 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 变上限函数求积分
 
 # TODO
+## 关于数列 极限 级数
+数列有极限，一定有界。数列极限不存在，不一定无界。
+级数收敛，对应的数列必定收敛于无穷小。
+级数发散，对应的数列第n项必定极限不为0或者极限不存在。
+
 ## 间断点分类区别
 
 ## 导数
@@ -248,3 +251,7 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 
 ## 各种积分
 三角函数的积分与开根号的积分
+
+## 级数的基本特性
+
+## 微分方程的分类与求解
