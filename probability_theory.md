@@ -65,9 +65,10 @@ pay attention that multiple basic point could be same value.
 ## Probability distribution
  - 1. Binomial distribution 
  - 2. Bernoulli distribution
- - 3. Unify
- - 4. Exponential
- - 5. Normal distribution
+ - 3. Poission distribution
+ - 4. Unify
+ - 5. Exponential
+ - 6. Normal distribution
 
 # Probability density function
 The relation of variable and probability density function
