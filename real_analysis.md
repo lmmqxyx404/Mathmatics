@@ -80,6 +80,7 @@ $$F(x,y)=0,且x确定，y就可以确定。那么就称F(x,y)确定了一个隐�
 ### 1. 主要是对数求导法
 ### 2.参数方程确定的函数求高阶导数。要冷静分析
 
+
 # Chapter4 differential
 ## concept
 $$ calculate the \Delta{y}  $$
@@ -93,10 +94,21 @@ $$ calculate the \Delta{y}  $$
 
 ## 柯西中值定理
 
+## 泰勒公式
+### 配亚诺余项
+### 拉格朗日余项
+
+## 渐近线条
+### 水平渐近线（斜渐近线）
+可以同时存在，但是在一侧，不可能同时存在
+
+### 垂直渐近线
 
 ## 曲率
-## 曲率半径
+$$K=|y''|/(1+{y'}^2)^{3/2}   $$
 
+## 曲率半径
+$$ R=1/K $$
 
 #  Chapter5 Differentional equation
 ## definition
