@@ -221,15 +221,23 @@ There is a closing relation to Green's theorm
 连续函数的可导性
 
 # space line equation
-## Normal form
+## vector algorithm
+### X multiply
+determinant rule.
+### point multiply
+only can get a number value.
+### 混合积
+
+
+## 空间直线方程 
+### Normal form
 $$
 A(x-x_0)+B(y-y_0)+C(z-z_0)=0
 $$
 
-## general form
+### general form
 $$Ax + By + Cz + D = 0$$
 
-空间直线方程
 空间平面方程
 点法式方程
 

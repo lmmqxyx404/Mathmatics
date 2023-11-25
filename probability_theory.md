@@ -97,3 +97,10 @@ In probability theory and statistics, the law of the unconscious statistician, o
 
 ## basic point relations
 不同样本点的概率不一定是相同的，可以不同，相同就认为是均匀分布
+
+## 常见的概率密度分布函数 
+
+## 概率密度与随机变量类型的联系
+为什么会有概率密度函数
+
+## f(x) F(x) 各自的性质

@@ -59,6 +59,34 @@ f(A)=(A+E)(A-E);
 
 ## Contracts and Similarities
 
+# inverse matrix
+逆矩阵与伴随矩阵的关系
+伴随矩阵与原始矩阵的乘积关系
+We can use inverse matrix to calculate A^n.
+
+# 分块矩阵与初等变换
+
+# rank
+任意一个k阶子式为0，则对应的 R 值一定小于k。
+任意的初等变换不会影响对应矩阵的秩。
+
+# 向量组
+## 向量类型
+单位向量
+零向量
+
+## 向量组合
+## 组合系数
+## n维单位向量
+向量组合成为矩阵
+
+## 向量组等价的含义及其相关推论
+
+## 线性相关 
+有很多相关结论以及推论，要学会与方程组结合起来理解
+
+# the rank of vector array 
+
 # quadratic form
 In mathematics, a quadratic form is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). For example,
 is a quadratic form in the variables x and y. The coefficients usually belong to a fixed field K, such as the real or complex numbers, and one speaks of a quadratic form over K. If {\displaystyle K=\mathbb {R} }{\displaystyle K=\mathbb {R} }, and the quadratic form takes zero only when all variables are simultaneously zero, then it is a definite quadratic form, otherwise it is an isotropic quadratic form.
@@ -90,3 +118,34 @@ ${P_1}$ is in left, equals elementary row operations. ${P_2}$ is in right, equal
 ## 余子式与代数余子式的区别
 
 ## 行列式计算 每天都要做
+
+## 为什么要引入伴随矩阵
+为了计算逆矩阵
+
+## 为什么要引入逆矩阵
+$$ 计算多项式，即 A^n $$
+
+## 逆矩阵有什么用
+mooc 课后有一个选择题  14
+可交换的含义。
+
+answer： E和O都属于可交换矩阵
+
+## 分块矩阵的引入以及应用
+1. 主要可以用来证明O矩阵的充要条件
+2. 快速求对角阵的逆举证
+
+## 初等变换
+1. 行变换与列变换应该是什么样。
+2. 为什么需要初等变换
+依据分块矩阵与初等变换
+可以求出逆举证
+
+## rank（秩）
+1. 注意k阶子式为0，则对应的秩小于k。不是k-1。
+
+## 齐次线性方程组解集的rank与系数对应的rank取值
+
+## 方程组同解的定义
+
+## 向量组等价的定义
