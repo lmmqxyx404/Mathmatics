@@ -87,18 +87,6 @@ We can use inverse matrix to calculate A^n.
 
 # the rank of vector array 
 
-# quadratic form
-In mathematics, a quadratic form is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). For example,
-is a quadratic form in the variables x and y. The coefficients usually belong to a fixed field K, such as the real or complex numbers, and one speaks of a quadratic form over K. If {\displaystyle K=\mathbb {R} }{\displaystyle K=\mathbb {R} }, and the quadratic form takes zero only when all variables are simultaneously zero, then it is a definite quadratic form, otherwise it is an isotropic quadratic form.
-
-Quadratic forms occupy a central place in various branches of mathematics, including number theory, linear algebra, group theory (orthogonal group), differential geometry (Riemannian metric, second fundamental form), differential topology (intersection forms of four-manifolds), and Lie theory (the Killing form).
-
-Quadratic forms are not to be confused with a quadratic equation, which has only one variable and includes terms of degree two or less. A quadratic form is one case of the more general concept of homogeneous polynomials.
-
-### normal form
-The standard form of a quadratic form is a generalization of coordinate transformation.
-
-
 # block matrix
 
 # relation of inverse matrix and adjugate matrix
@@ -114,6 +102,23 @@ The basic properties of a linear transformation T: V → W are as follows:
 $$A = {P_1} E {P_2}$$
 ${P_1}$ is in left, equals elementary row operations. ${P_2}$ is in right, equals elementary column operations.
 
+# vector space
+## the basis of a space.
+向量空间中的任意一个向量就是由系数坐标和基相乘得到的。
+
+## 基变换（坐标变换）
+
+# quadratic form
+In mathematics, a quadratic form is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). For example,
+is a quadratic form in the variables x and y. The coefficients usually belong to a fixed field K, such as the real or complex numbers, and one speaks of a quadratic form over K. If {\displaystyle K=\mathbb {R} }{\displaystyle K=\mathbb {R} }, and the quadratic form takes zero only when all variables are simultaneously zero, then it is a definite quadratic form, otherwise it is an isotropic quadratic form.
+
+Quadratic forms occupy a central place in various branches of mathematics, including number theory, linear algebra, group theory (orthogonal group), differential geometry (Riemannian metric, second fundamental form), differential topology (intersection forms of four-manifolds), and Lie theory (the Killing form).
+
+Quadratic forms are not to be confused with a quadratic equation, which has only one variable and includes terms of degree two or less. A quadratic form is one case of the more general concept of homogeneous polynomials.
+
+### normal form
+The standard form of a quadratic form is a generalization of coordinate transformation.
+
 # TODO
 ## 余子式与代数余子式的区别
 
@@ -124,6 +129,11 @@ ${P_1}$ is in left, equals elementary row operations. ${P_2}$ is in right, equal
 
 ## 为什么要引入逆矩阵
 $$ 计算多项式，即 A^n $$
+
+## 矩阵可逆的充分必要条件
+$$  $$ 
+
+## 求可逆矩阵的方法
 
 ## 逆矩阵有什么用
 mooc 课后有一个选择题  14
@@ -149,3 +159,12 @@ answer： E和O都属于可交换矩阵
 ## 方程组同解的定义
 
 ## 向量组等价的定义
+
+## 证明线性相关思路
+利用定义，向量组线性相关的定义
+
+## 证明是否可以相似对角化
+
+## 两两正交与线性相关的联系
+
+## 正交矩阵的定义

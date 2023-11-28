@@ -75,6 +75,10 @@ The relation of variable and probability density function
 in general,
   $$F(x) = \int_{-{\infty}}^{x}f(x){\mathrm{d}x} $$
 
+# The function of R(X)
+if Y is the function relatived with X.
+
+
 # Expectation
 ## Random variables with finitely many outcomes
 
