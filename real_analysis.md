@@ -125,8 +125,16 @@ $$dy/dx+P(x)y=Q(x) $$
 4. Bernoulli differential equation method
 $$dy/dx+P(x)y=Q(x)y^n $$
 
+## 全微分方程
 
 ## Chi-square linear differential equations
+### 高阶微分方程（主要是2阶及以上）
+1. 要考虑是否是齐次
+2. 要考虑是否是常系数
+
+### 常系数齐次微分方程有公式解
+
+### 注意欧拉方程
 
 # Chapter5 infinite integrals
 ## integral methods
@@ -284,3 +292,12 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 1. 利用被积函数的对称性
 2. 利用被积区域的对称性
 3. 切记不要忘记了 y=x 这种对称性
+
+## 中值不等式的证明
+### 1. 常见的不含有导数的不等式
+直接转化为一整个函数，然后求导
+
+### 2. 条件中给出导数，也要证明同阶导数。
+
+### 3.高阶导数
+注意用到 泰勒公式
