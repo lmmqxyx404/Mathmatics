@@ -106,7 +106,25 @@ ${P_1}$ is in left, equals elementary row operations. ${P_2}$ is in right, equal
 ## the basis of a space.
 向量空间中的任意一个向量就是由系数坐标和基相乘得到的。
 
+## 过渡矩阵
+如果 AP=B.
+那么，P就称为从A到B的过渡矩阵，注意计算时，应该与单位矩阵以及基联系起来
+
 ## 基变换（坐标变换）
+注意与过渡矩阵的联系
+$$ P^{-1}a=b (target) $$
+
+## 正交矩阵
+### 规范正交基
+
+### 施密特 正交化
+学会推导过程
+
+### 正交矩阵的性质
+$$ A^{T}A=E $$
+
+### 正交变换的性质
+经过正交变换的向量长度保持不变，角度不变
 
 # quadratic form
 In mathematics, a quadratic form is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). For example,
@@ -131,7 +149,7 @@ The standard form of a quadratic form is a generalization of coordinate transfor
 $$ 计算多项式，即 A^n $$
 
 ## 矩阵可逆的充分必要条件
-$$  $$ 
+$$ |A|\not = {0} $$
 
 ## 求可逆矩阵的方法
 
@@ -168,3 +186,6 @@ answer： E和O都属于可交换矩阵
 ## 两两正交与线性相关的联系
 
 ## 正交矩阵的定义
+
+## 过渡矩阵
+坐标变换公式
