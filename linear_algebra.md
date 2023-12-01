@@ -126,6 +126,36 @@ $$ A^{T}A=E $$
 ### 正交变换的性质
 经过正交变换的向量长度保持不变，角度不变
 
+# eigenvalue en eigenvector
+In linear algebra, an eigenvalue is an important characteristic of a square matrix. For an n × n matrix A, if there exists a scalar λ and a non-zero vector v that satisfy the following equation:
+
+A * v = λ * v
+
+## the conclusion of eignvalue
+特征值之和等于对角线上元素之和
+特征值之积等于行列式的值
+
+注意，任意两个特征向量之和不是新的特征向量
+
+## 与原始矩阵相关的矩阵的特征值
+$$ A^{-1} A^{*} A^{k} 对应的特征值 $$
+
+## 相似关系
+Similar matrices are matrices that share certain properties in linear algebra. Given two n × n matrices, A and B, they are said to be similar if there exists an invertible matrix P such that the following relationship holds:
+
+B = P⁻¹ * A * P
+
+Here, P⁻¹ represents the inverse of matrix P.
+
+In other words, if matrix B can be obtained by performing a similarity transformation on matrix A, then A and B are considered similar matrices. The transformation matrix P connects the two matrices, and by multiplying A by P and P⁻¹, we can transform one matrix into the other while preserving certain properties.
+
+$$A与B 相似，那么A^k与B^k也相似 $$
+
+## 相似对角化的条件与求法
+
+## 相似的作用
+$$ 可以用来求解A^k $$
+
 # quadratic form
 In mathematics, a quadratic form is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). For example,
 is a quadratic form in the variables x and y. The coefficients usually belong to a fixed field K, such as the real or complex numbers, and one speaks of a quadratic form over K. If {\displaystyle K=\mathbb {R} }{\displaystyle K=\mathbb {R} }, and the quadratic form takes zero only when all variables are simultaneously zero, then it is a definite quadratic form, otherwise it is an isotropic quadratic form.
@@ -134,8 +164,23 @@ Quadratic forms occupy a central place in various branches of mathematics, inclu
 
 Quadratic forms are not to be confused with a quadratic equation, which has only one variable and includes terms of degree two or less. A quadratic form is one case of the more general concept of homogeneous polynomials.
 
-### normal form
+## symmetric matrix
+
+### normal form 标准型
 The standard form of a quadratic form is a generalization of coordinate transformation.
+基础的二次型定义，要理解。
+$$ row*A*col $$
+
+### 规范型
+
+### 正交变换
+
+### 任意一个二次型化为标准型的过程
+1. 二次型表示为矩阵形式
+2. 求出对应的特征向量
+3. 将向量正交化，单位化,得到P
+4. 注意，作正交变换 x=Py .
+5. 得到标准型
 
 # TODO
 ## 余子式与代数余子式的区别
@@ -189,3 +234,20 @@ answer： E和O都属于可交换矩阵
 
 ## 过渡矩阵
 坐标变换公式
+
+## 特征值  特征向量（为什么需要这个）
+是为了做线性变换，并且会有特征多项式，
+也是为了引出相似矩阵
+
+1. 注意，特征向量要求非0
+2. 特征值以及相关的算术运算法则。
+3. 特征多项式的定义
+
+## 相似矩阵
+### 矩阵可以相似对角化的条件
+快速举出一个不能相似对角化的反例。
+
+## 对称矩阵的特征值，特征向量
+
+## 二次型
+### 基本定义
