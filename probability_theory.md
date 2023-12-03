@@ -70,6 +70,10 @@ pay attention that multiple basic point could be same value.
  - 5. Exponential
  - 6. Normal distribution
 
+补充关于5的说明
+指数分布具有无记忆性，指数分布一般是连续型随机变量
+泊松分布与指数分布类似，但是泊松分布是离散型随机变量
+
 # Probability density function
 The relation of variable and probability density function
 in general,
@@ -103,6 +107,7 @@ In probability theory and statistics, the law of the unconscious statistician, o
 不同样本点的概率不一定是相同的，可以不同，相同就认为是均匀分布
 
 ## 常见的概率密度分布函数 
+指数分布要多练习，泊松分布，正态分布，每天多写一写。
 
 ## 概率密度与随机变量类型的联系
 为什么会有概率密度函数

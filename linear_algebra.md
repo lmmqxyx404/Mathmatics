@@ -165,6 +165,8 @@ Quadratic forms occupy a central place in various branches of mathematics, inclu
 Quadratic forms are not to be confused with a quadratic equation, which has only one variable and includes terms of degree two or less. A quadratic form is one case of the more general concept of homogeneous polynomials.
 
 ## symmetric matrix
+1. 对称矩阵不同特征值对应的特征向量正交。
+2. $$ A 为n阶 symmetric matrix, \\ Then there must be a orthogonal matrix P, so\\ P^{-1}AP=P^TAP= \varLambda $$
 
 ### normal form 标准型
 The standard form of a quadratic form is a generalization of coordinate transformation.
@@ -173,14 +175,34 @@ $$ row*A*col $$
 
 ### 规范型
 
+### 合同矩阵
+$$ B=C^TAC, 那么 A与B合同 $$
+1. 合同关系为等价关系
+2. 与对称矩阵合同的矩阵也是对称矩阵
+3. 合同矩阵有相同的秩
+
 ### 正交变换
 
 ### 任意一个二次型化为标准型的过程
+就是将二次型转化为对角矩阵
+二次型一定是对称阵
+
 1. 二次型表示为矩阵形式
 2. 求出对应的特征向量
 3. 将向量正交化，单位化,得到P
 4. 注意，作正交变换 x=Py .
 5. 得到标准型
+
+### 正定与负定
+1. 负定的条件
+负定就是奇数为负，偶数为正。
+
+2. 正定的充分必要条件
+ - 特征值都大于0
+ - 主子矩阵的行列式都大于0
+ - cholesky 分解
+ 
+
 
 # TODO
 ## 余子式与代数余子式的区别
@@ -189,6 +211,7 @@ $$ row*A*col $$
 
 ## 为什么要引入伴随矩阵
 为了计算逆矩阵
+注意伴随矩阵与原矩阵之间的 rank 联系.
 
 ## 为什么要引入逆矩阵
 $$ 计算多项式，即 A^n $$
@@ -243,11 +266,36 @@ answer： E和O都属于可交换矩阵
 2. 特征值以及相关的算术运算法则。
 3. 特征多项式的定义
 
+补充：n阶方阵A不可逆时，即R(A)<n, 那么该方阵一定有一个特征值为0。
+注意此时方阵A仍然可以是对称矩阵
+
 ## 相似矩阵
 ### 矩阵可以相似对角化的条件
 快速举出一个不能相似对角化的反例。
 
 ## 对称矩阵的特征值，特征向量
+由于对称矩阵一定可以相似对角化，而且是正交变换。
+故任意二次型一定可以变为规范型
 
 ## 二次型
+主要问题是变为规范型，求解x=Cy中的C。
+注意有两种方法
+1. 对应的 symmetric matrix 作正交变换
+2. 使用拉格朗日配方法。
+
 ### 基本定义
+
+### 正定与负定
+注意，正定时，充分必要条件与负定时有很大区别，还有就是除这两者之外
+还有半正定的概念。
+
+### 要证明正定
+那就只要看标准型的二次项系数是否都是正数。
+
+## 合同与相似的对比
+都具有传递性，等价性，因此可以拓展出一些概念。
+
+## 什么时候需要正交化
+原矩阵为对称阵，就是一个二次型，求让其对角化的矩阵。
+
+## 矩阵等价的判定条件
