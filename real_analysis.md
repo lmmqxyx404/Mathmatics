@@ -184,8 +184,21 @@ In mathematical optimization, the method of Lagrange multipliers is a strategy f
 
 # Chapter9 Multiple Integrals
 ## calculate more than 2 integrals
+### 分步积分法
+要学会交换积分次序，三重积分时，如果要交换成指定的积分次序，可以考虑两两交换，不一定要直接按照空间形状去分割
+
 ### first 1 then 2
 common ways. Priority of z. ∫， lower bound and upper bound could be f(x,y)
+
+### first 2 then 1
+
+### 极坐标
+
+### 对称性，奇偶性
+积分区域对称，函数值有奇偶性
+
+### 变量对称性
+积分区域关于 y=x 对称
 
 ### formula
 $\mathrm{d}v=ρ\mathrm{d}ρ\mathrm{d}Θ$
@@ -248,9 +261,10 @@ $$
 ### general form
 $$Ax + By + Cz + D = 0$$
 
-空间平面方程
-点法式方程
+## 空间平面方程
+### 点法式方程
 
+### 参数式方程
 可导必定连续  连续未必可导
 
 旋转体体积计算
@@ -318,3 +332,8 @@ F(x) ≠0且连续，则 |f(x)| 必定可导
 ### 定积分
 #### 反常积分
 注意判断瑕点，这时候要用到反常积分审敛法
+
+### 专题13 二重积分
+1. 注意，优先看积分区域的特点。
+2. 拆原来的二元函数，拆项后，注意有不好积的部分，可以抵消。
+3. 换积分顺序或者改成极坐标形式

@@ -113,3 +113,6 @@ In probability theory and statistics, the law of the unconscious statistician, o
 为什么会有概率密度函数
 
 ## f(x) F(x) 各自的性质
+
+## F(X) 的函数
+根据定义去计算
