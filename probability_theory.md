@@ -98,6 +98,10 @@ Rsm
 # Law of the unconscious statistician
 In probability theory and statistics, the law of the unconscious statistician, or LOTUS, is a theorem which expresses the expected value of a function g(X) of a random variable X in terms of g and the probability distribution of X.
 
+# multivariable
+## how to calculate F(X,Y)
+$$F(a<X<b,c<Y<d)=F(b,d)-F(b,c)-F(a,d)+F(a,c)$$
+
 # TODO
 ## 独立与相容的概念对比（venn graph）
 犯过错误
