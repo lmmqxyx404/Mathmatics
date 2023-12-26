@@ -150,7 +150,7 @@ $$ S_n=a_1+a_2+...+a_n$$
 
 $$ if \lim_{n \to \infty}=A , \ Then\ S_n\ convergent $$
 
-### series of positive terms
+### 2.series of positive terms
 1. Conmparision test
 2. Limit comparison test
 3. Ratio test
@@ -170,8 +170,6 @@ $$f(x)=a_1(x)+a_2(x)+a_3(x)+...+a_n(x)+... $$
 ## 3.power series
 $$ In\ general, a_n(x)=a_n*(x-x_0)^n $$
  A power series is a representation of a function as an infinite sum of terms, where each term is a constant multiplied by a variable raised to a non-negative integer power. 
-### 函数项级数 
-
 
 ## 4.Fourin series
 
