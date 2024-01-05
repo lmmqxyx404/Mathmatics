@@ -25,7 +25,7 @@ In modular arithmetic, the integers coprime (relatively prime) to n from the set
 
 # group
 ## definition
-{Q,*} Q means a set.* means an operation.
+{Q,`*`} Q means a set.`*` means an operation.
 Associativity
 Identity element
 Inverse element
