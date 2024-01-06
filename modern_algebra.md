@@ -30,3 +30,10 @@ Associativity
 Identity element
 Inverse element
 
+## Abelian group（commutative group）
+Compared to the basic group.There is one more rule:
+The ele in the group could be communicative
+
+## relative definition
+### 阶
+
