@@ -6,7 +6,7 @@
  - transitivity
 
 For example, if a|b ,b|c, then a|c.
-
+aa
 ## congruence relation
 This relation is a equivalence relation(group, ring, vector space).
 Language
