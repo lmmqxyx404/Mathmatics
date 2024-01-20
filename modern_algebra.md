@@ -1,4 +1,3 @@
-
 # basic concept
 ## equivalence relation
  - reflexivity
@@ -22,7 +21,7 @@ Otherwise, q is called a quadratic nonresidue modulo n.
 In modular arithmetic, the integers coprime (relatively prime) to n from the set 
 {\displaystyle \{0,1,\dots ,n-1\}} of n non-negative integers form a group under multiplication modulo n, called the multiplicative group of integers modulo n. Equivalently, the elements of this group can be thought of as the congruence classes, also known as residues modulo n, that are coprime to n. Hence another name is the group of primitive residue classes modulo n. In the theory of rings, a branch of abstract algebra, it is described as the group of units of the ring of integers modulo n. Here units refers to elements with a multiplicative inverse, which, in this ring, are exactly those coprime to n.
 
-
+算术基本地理
 # group
 ## definition
 {Q,`*`} Q means a set.`*` means an operation.
