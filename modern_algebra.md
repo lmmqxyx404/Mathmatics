@@ -34,8 +34,14 @@ Inverse element
 Compared to the basic group.There is one more rule:
 The ele in the group could be communicative
 
+## permutation 置换
+理解什么是置换以及复合置换的概念
+
+## permutation group  置换群
+
 ## relative definition
 ### 阶
+置换群的阶
 
 # Ring
 
