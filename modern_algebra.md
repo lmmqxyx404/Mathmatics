@@ -53,3 +53,8 @@ The ele in the group could be communicative
 欧拉定理
 注意具有可积性
 
+# 一元五次方程及以上没有根式解 思路
+## 考虑根的置换群是否可解
+
+
+
