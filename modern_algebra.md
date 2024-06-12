@@ -40,6 +40,9 @@ The ele in the group could be communicative
 ## permutation group  置换群
 
 ## relative definition
+子群
+子群构造子群
+
 ### 阶
 置换群的阶
 
