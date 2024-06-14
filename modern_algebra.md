@@ -46,18 +46,19 @@ The ele in the group could be communicative
 ### 阶
 置换群的阶
 
-# Ring
+# Ring 环
 
 
 费马小定理
 
-# field
+# field 域
 
 欧拉定理
 注意具有可积性
 
 # 一元五次方程及以上没有根式解 思路
 ## 考虑根的置换群是否可解
+
 
 
 
