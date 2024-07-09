@@ -41,6 +41,9 @@ The ele in the group could be communicative
 
 ## relative definition
 子群
+subgroup
+真子群，
+coset 陪集
 子群构造子群
 
 ### 阶
