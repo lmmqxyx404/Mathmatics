@@ -250,7 +250,7 @@ only can get a number value.
 ### 混合积
 
 
-## 空间直线方程 
+## 空间平面方程 
 ### Normal form
 $$
 A(x-x_0)+B(y-y_0)+C(z-z_0)=0
@@ -259,7 +259,7 @@ $$
 ### general form
 $$Ax + By + Cz + D = 0$$
 
-## 空间平面方程
+## 空间直线方程
 ### 点法式方程
 
 ### 参数式方程
