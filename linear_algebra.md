@@ -1,6 +1,6 @@
 # linear algebra
 ## aim
-Learning linear algebra is to study linear spaces.Planes and spaces are just special cases of n-dimensional vector spaces.
+Learning linear algebra is to study `linear spaces`.Planes and spaces are just special cases of `n-dimensional vector spaces`.
 
 ### partial chapters
 linear equations
@@ -57,16 +57,16 @@ Inverse matrix
 - multiply
 f(A)=(A+E)(A-E);
 
-## Contracts and Similarities
+### Contracts and Similarities
 
-# inverse matrix
+### inverse matrix
 逆矩阵与伴随矩阵的关系
 伴随矩阵与原始矩阵的乘积关系
 We can use inverse matrix to calculate A^n.
 
-# 分块矩阵与初等变换
+### 分块矩阵与初等变换
 
-# rank
+### rank
 任意一个k阶子式为0，则对应的 R 值一定小于k。
 任意的初等变换不会影响对应矩阵的秩。
 
@@ -85,11 +85,11 @@ We can use inverse matrix to calculate A^n.
 ## 线性相关 
 有很多相关结论以及推论，要学会与方程组结合起来理解
 
-# the rank of vector array 
+### the rank of vector array 
 
-# block matrix
+### block matrix
 
-# relation of inverse matrix and adjugate matrix
+### relation of inverse matrix and adjugate matrix
 
 
 # Linear transformations
@@ -269,7 +269,7 @@ answer： E和O都属于可交换矩阵
 2. 特征值以及相关的算术运算法则。
 3. 特征多项式的定义
 
-补充：n阶方阵A不可逆时，即R(A)<n, 那么该方阵一定有一个特征值为0。
+补充：n阶方阵A不可逆时，即`R(A) < n`, 那么该方阵一定有一个特征值为0。
 注意此时方阵A仍然可以是对称矩阵
 
 ## 相似矩阵

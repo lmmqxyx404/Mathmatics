@@ -31,6 +31,14 @@ These axioms provide the foundation for defining and manipulating probabilities.
 
 It's worth noting that these axioms are just one way to define probability, and alternative approaches exist, such as the subjective interpretation of probability. However, the axiomatic definition based on Kolmogorov's axioms is widely used in probability theory and forms the basis of many statistical and probabilistic analyses.
 
+# The numerical characteristics of a random variable
+## Expectation (Mean)
+
+## Variance
+
+## Standard Deviation
+
+## Covariance
 
 ### TODO: consider the following formula
 $$
