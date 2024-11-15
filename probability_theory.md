@@ -31,6 +31,32 @@ These axioms provide the foundation for defining and manipulating probabilities.
 
 It's worth noting that these axioms are just one way to define probability, and alternative approaches exist, such as the subjective interpretation of probability. However, the axiomatic definition based on Kolmogorov's axioms is widely used in probability theory and forms the basis of many statistical and probabilistic analyses.
 
+# Multidimensional random variable
+## 1. Definition
+A multivariate random variable, also known as a multidimensional random variable, consists of a vector of multiple random variables. For example, a bivariate random variable \((X, Y)\) includes two random variables \(X\) and \(Y\).
+
+## 2. Joint Distribution
+- **Joint Probability Density Function (Continuous Variables)**: If \(X\) and \(Y\) are continuous, their joint probability density function \(f_{X,Y}(x, y)\) represents the probability density at the point \((x, y)\) for these values to occur simultaneously.
+
+- **Joint Probability Mass Function (Discrete Variables)**: If \(X\) and \(Y\) are discrete, their joint probability mass function \(p_{X,Y}(x, y)\) represents the probability of simultaneously taking specific values \(x\) and \(y\).
+
+## 3. Marginal Distribution
+- **Marginal Probability Density Function**: Obtained from the joint probability density function by integrating (continuous variables) or summing (discrete variables) over the other variable(s).
+- **Example**: The marginal density of \(X\) from a bivariate random variable \((X, Y)\) is \(f_X(x) = \int_{-\infty}^\infty f_{X,Y}(x, y) \, dy\).
+
+## 4. Conditional Distribution
+- **Conditional Probability Density Function**: The probability distribution of one variable given the value of another variable.
+- **Example**: The conditional probability density function of \(X\) given \(Y = y\) is \(f_{X|Y}(x|y) = \frac{f_{X,Y}(x, y)}{f_Y(y)}\) (assuming \(f_Y(y) > 0\)).
+
+## 5. Independence
+- **Independence**: Two random variables are independent if their joint distribution is equal to the product of their marginal distributions. For the bivariate random variable \((X, Y)\), if \(f_{X,Y}(x, y) = f_X(x) f_Y(y)\) for all \(x, y\), then \(X\) and \(Y\) are independent.
+
+## 6. Covariance and Correlation Coefficient
+- **Covariance**: A measure of how much two random variables change together. It is calculated using the formula \(\text{Cov}(X, Y) = E[(X - E[X])(Y - E[Y])]\).
+- **Correlation Coefficient**: The standardized form of covariance, used to measure the strength and direction of a linear relationship between variables. The formula is \(\rho_{X,Y} = \frac{\text{Cov}(X, Y)}{\sqrt{\text{Var}(X) \text{Var}(Y)}}\).
+
+These are some of the basic concepts associated with multivariate random variables. If you're interested in a specific topic or need examples and mathematical derivations, feel free to ask for more details!
+
 # The numerical characteristics of a random variable
 ## Expectation (Mean)
 
