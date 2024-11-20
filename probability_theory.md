@@ -136,6 +136,28 @@ In probability theory and statistics, the law of the unconscious statistician, o
 ## how to calculate F(X,Y)
 $$F(a<X<b,c<Y<d)=F(b,d)-F(b,c)-F(a,d)+F(a,c)$$
 
+#
+
+# statistic
+## population
+
+## sample
+
+### simple sample
+
+## sample statistic
+### sample mean
+
+\[
+\bar{X} = \frac{1}{n} \sum_{i=1}^{n} X_i
+\]
+
+### sample variance
+
+\[
+S^2 = \frac{1}{n-1} \sum_{i=1}^{n} (X_i - \bar{X})^2
+\]
+
 # TODO
 ## 独立与相容的概念对比（venn graph）
 犯过错误
