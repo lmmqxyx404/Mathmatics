@@ -136,7 +136,12 @@ In probability theory and statistics, the law of the unconscious statistician, o
 ## how to calculate F(X,Y)
 $$F(a<X<b,c<Y<d)=F(b,d)-F(b,c)-F(a,d)+F(a,c)$$
 
-#
+# 大数定律
+## 辛钦大数定律
+
+## 依概率收敛
+
+## 切比雪夫不等式
 
 # statistic
 ## population
@@ -156,6 +161,42 @@ $$F(a<X<b,c<Y<d)=F(b,d)-F(b,c)-F(a,d)+F(a,c)$$
 
 \[
 S^2 = \frac{1}{n-1} \sum_{i=1}^{n} (X_i - \bar{X})^2
+\]
+
+## 来自正态分布总体的抽样分布
+### \( \chi^2(n) \) 
+n 是自由度
+
+
+### t 分布
+
+**定义**：设 \( X \sim N(0, 1) \), \( Y \sim \chi^2(n) \)，且 \( X \) 和 \( Y \) 互相独立。
+
+则称随机变量
+
+\[
+T = \frac{X}{\sqrt{Y / n}}
+\]
+
+服从自由度为 \( n \) 的 t 分布。（也称为学生氏分布）
+
+记为 \( T \sim t(n) \)。
+
+## 矩估计 (method of moments)
+用样本矩作为总体矩的估计就是矩估计
+
+### 点估计
+
+### 区间估计
+
+## Maximum Likelihood Estimation
+
+设离散型总体 \( X \sim p(x; \theta) \), \( \theta \in \Theta \), \( \theta \) 未知。\( X_1, \dots, X_n \) 为样本，其观察值为 \( x_1, \dots, x_n \)，则事件 \(\{X_1 = x_1, \dots, X_n = x_n\}\) 发生的概率为
+
+**似然函数**：
+
+\[
+L(\theta) = \prod_{i=1}^{n} p(x_i; \theta)
 \]
 
 # TODO
